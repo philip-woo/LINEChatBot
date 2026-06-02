@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+line-bot-sdk
+anthropic
+psycopg[binary,pool]
+pgvector
+fastembed
+slack-sdk
+python-dotenv
+httpx
